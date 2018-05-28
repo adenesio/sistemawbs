@@ -41,8 +41,9 @@
 				<!-- Modal conteúdo-->
 				<div class="modal-content">
 					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal">×</button>
 						<h1 class="modal-title">Cadastre-se</h1>
+						<button type="button" class="close" data-dismiss="modal">×</button>
+						
 					</div>
 					<form method="POST" >
 						<div class="modal-body">
